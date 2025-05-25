@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url(../FontS-UI/Font-UI-001-SRE404ZUIFont/SRE404ZUIFont.woff) format("woff");
+  src: url('https://cdn.jsdelivr.net/gh/ShimulRE404Zone/Web-Font-SRE404Z-UI@main/FontS-UI/Font-UI-001-SRE404ZUIFont/SRE404ZUIFont.woff') format('woff');
   unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9,
     U+25CC;
 }
